@@ -35,13 +35,13 @@ It creates denial of service (DoS) condition against any wifi router by continou
 ### Installing
 + **For Linux :**
 ```
-~ ❯❯❯ git clone https://github.com/3xploitGuy/lazyaircrack.git
+git clone https://github.com/Siyam-404/lazyaircrack.git
 
-~ ❯❯❯ cd lazyaircrack
+cd lazyaircrack
 
-~/lazyaircrack ❯❯❯ chmod +x lazyaircrack.sh
+chmod +x lazyaircrack.sh
 
-~/lazyaircrack ❯❯❯ ./lazyaircrack.sh
+ ./lazyaircrack.sh
 ```
 
 ## Basics
@@ -49,19 +49,3 @@ It creates denial of service (DoS) condition against any wifi router by continou
 > BSSID: Basic service set identifiers, it recognizes the access point or router uniquely because it has address which creates the wireless network.
 
 > Channel: As Wi-Fi data is digital, the signals are transmited and received on a certain frequency also known as channel.
-
-
-## Contact
-[Gmail](mailto:3xploitguy@gmail.com)
-
-## Disclaimer
-
-LazyAircrack is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.
-
-Feel free to discuss any issue or new feature at GitHub's new [Discussions](https://github.com/3xploitGuy/lazyaircrack/discussions).
-
-Pull requests are always welcomed.
-
-## License
-
-LazyAircrack is under the terms of the [MIT License](https://www.tldrlegal.com/l/mit).
