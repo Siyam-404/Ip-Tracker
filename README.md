@@ -41,7 +41,7 @@ cd lazyaircrack
 
 chmod +x lazyaircrack.sh
 
- ./lazyaircrack.sh
+./lazyaircrack.sh
 ```
 
 ## Basics
